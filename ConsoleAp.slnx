@@ -6,5 +6,6 @@
   <Project Path="Calculator/Calculator.vcxproj" Id="bbbc27cb-5205-41fc-9efc-1666f0bc82d8" />
   <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="624ec964-9813-439c-9499-608d82e1ea74" />
   <Project Path="ConsoleApplication2/ConsoleApplication2.vcxproj" Id="21760132-6c60-4a50-9567-332a788670e8" />
+  <Project Path="For,While,Do while/For,While,Do while.vcxproj" Id="4f070784-fa9f-470c-b7da-de5ea1fc447c" />
   <Project Path="Switch-case/Switch-case.vcxproj" Id="b53e8e6e-3344-4065-b753-53862f04b5b2" />
 </Solution>
