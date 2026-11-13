@@ -7,5 +7,8 @@
   <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="624ec964-9813-439c-9499-608d82e1ea74" />
   <Project Path="ConsoleApplication2/ConsoleApplication2.vcxproj" Id="21760132-6c60-4a50-9567-332a788670e8" />
   <Project Path="For,While,Do while/For,While,Do while.vcxproj" Id="4f070784-fa9f-470c-b7da-de5ea1fc447c" />
+  <Project Path="Masiv practice/Masiv practice.vcxproj" Id="7ef65d0a-5b1f-4dbc-bfdf-42979bb6a98f" />
+  <Project Path="Massuw/Massuw.vcxproj" Id="a083e2dd-5c04-4bf9-9941-b8cdf903e667" />
+  <Project Path="Multi masiwe/Multi masiwe.vcxproj" Id="6076d96b-0b98-4957-9c75-094bb3a15b54" />
   <Project Path="Switch-case/Switch-case.vcxproj" Id="b53e8e6e-3344-4065-b753-53862f04b5b2" />
 </Solution>
