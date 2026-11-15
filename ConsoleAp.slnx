@@ -12,4 +12,5 @@
   <Project Path="Massuw/Massuw.vcxproj" Id="a083e2dd-5c04-4bf9-9941-b8cdf903e667" />
   <Project Path="Multi masiwe/Multi masiwe.vcxproj" Id="6076d96b-0b98-4957-9c75-094bb3a15b54" />
   <Project Path="Switch-case/Switch-case.vcxproj" Id="b53e8e6e-3344-4065-b753-53862f04b5b2" />
+  <Project Path="Working with the text/Working with the text.vcxproj" Id="2036390d-141e-49c8-a13b-a3e7501eb44a" />
 </Solution>
