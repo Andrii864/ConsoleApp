@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {
-	// Working with the text
 
 	char sumbol[] = { 'S', 'i', 'x'};
 	cin.getline(sumbol, 4);
