@@ -19,9 +19,10 @@ int main()
 	cout << &val << "-" << val << endl;
 	cout << ptrval << "-" << *ptrval << endl;
 
+	// Це все цікаво, але навіщо мені це
 
-
-
+	cout << &val << "-" << val << endl;
+	cout << ptrval << "-" << *ptrval << endl;
 
 	return 0;
 }
